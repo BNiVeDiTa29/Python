@@ -1,4 +1,5 @@
 class Solution:
+    #code to reverse an array
     def reverseArray(self, nums: list[int]) -> None:
         # TODO
         
